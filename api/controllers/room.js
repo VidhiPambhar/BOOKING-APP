@@ -68,4 +68,6 @@ const deleteRoom = async (req, res, next) => {
     }
 };
 
+
+
 module.exports = { createRoom,updateRoom, getSingleRoom, getAllRoom, deleteRoom };
