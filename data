@@ -1,0 +1,11 @@
+{
+   "name":"Fortune",
+   "type":"Villa",
+   "city":"Ahemdabad",
+   "address":"motera",
+   "distance":"500",
+   "title":"xyz",
+   "desc":"nice hotel",
+   "cheapestPrice":500
+
+}
